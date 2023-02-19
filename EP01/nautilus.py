@@ -6,8 +6,8 @@ t.goto(0,220)
 t.pendown()
 
 t.setheading(0)
-#turtle.bgcolor("black")
-#t.color("white")
+turtle.bgcolor("black")
+t.color("white")
 n = 500
 size = 45
 t.speed(0)
